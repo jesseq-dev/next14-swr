@@ -1,10 +1,8 @@
-# Hounddog.ai Take-Home Project
+# Next14 SWR Project
 
 This project provides a simple UI/UX where users can create, list and delete data elements which are regex patterns used to include/exclude specific types of tokens during code scanning.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-Visit https://hounddog-take-home.vercel.app/ in order to see the deployed preview.
 
 ## ⚡️ Stack
 
@@ -31,7 +29,7 @@ Visit https://hounddog-take-home.vercel.app/ in order to see the deployed previe
 First, create .env.local in the root folder of project and add api url and auth token properly
 
 ```bash
-NEXT_PUBLIC_API_URL=https://api-staging.hounddog.ai
+NEXT_PUBLIC_API_URL=
 NEXT_PUBLIC_AUTH_TOKEN=
 ```
 
